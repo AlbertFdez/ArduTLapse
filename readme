@@ -1,0 +1,34 @@
+ArduTLapse is Copyright (C) 2011 Albert J. Fernandez <git@estudiosproamp.com>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+    This program uses libraries released under the LGPL, which are listed here.
+
+      LiquidCrystal.h        by the Arduino Team.
+      Time.h                 by the Arduino Team.
+      Wire.h  		     Copyright (c) 2006 Nicholas Zambetti.
+      DS1307RTC.h            by the Arduino Team.
+      IOexpander.h           Copyright (c) 2011 Koen Warffemius. www.koenwar.nl
+
+    All this libraries and their license can be found on the Arduino website. http://www.arduino.cc/
+    
+    You will find a copy of the LGPL in /doc/LGPL.txt or on this wesite: http://www.gnu.org/licenses/lgpl.html
+
+    You will find a copy of the GPL in /doc/GPL.txt or on this website: http://www.gnu.org/licenses/gpl.html
+
+    You will find a how to use in /doc/howto.txt
+    
+
+    

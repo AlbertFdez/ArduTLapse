@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For IOexpander
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+IOexpander		KEYWORD2
+init			KEYWORD2
+pinMode			KEYWORD2
+pinModePort		KEYWORD2
+digitalWrite		KEYWORD2
+digitalWritePort	KEYWORD2	
+sedigitalRead		KEYWORD2
+pinModePort		KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+IOexp	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
